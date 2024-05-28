@@ -145,4 +145,4 @@ For any questions or issues, please open an issue on the GitHub repository or co
 
 ## Deployed Netlify Link
 
-[URL Shortener Project](https://chat-app-mern-hq5g.onrender.com)
+[Chat App Project](https://chat-app-mern-hq5g.onrender.com)
